@@ -1,6 +1,6 @@
 {
-  "name": "Gameboy WiFi Printer",
-  "version": "11.0.0",
+  "name": "Pokemon Trader",
+  "version": "1.0.0",
   "home_assistant_domain": null,
   "new_install_prompt_erase": true,
   "builds": [
