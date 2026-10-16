@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         { "path": "firmware.bin", "offset": 0 },
-        { "path": "littlefs.bin", "offset": 1048576 }
+        
       ]
     }
   ]
